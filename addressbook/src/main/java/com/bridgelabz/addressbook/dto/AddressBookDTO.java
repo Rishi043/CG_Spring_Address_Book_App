@@ -1,6 +1,6 @@
 package com.bridgelabz.addressbook.dto;
 
-// UC-3 Add DTO Layer
+// UC-3 DTO Layer
 public class AddressBookDTO {
     private String name;
     private String address;
